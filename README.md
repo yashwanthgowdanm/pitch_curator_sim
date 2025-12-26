@@ -8,7 +8,7 @@
 
 > **Author:** Yashwanth Gowda  
 > **Institution:** Arizona State University  
-> **Degree:** M.S. in Mechanical & Aerospace Engineering  
+> **Degree:** M.S. in Robotics (Mechanical & Aerospace Engineering)  
 
 ---
 
